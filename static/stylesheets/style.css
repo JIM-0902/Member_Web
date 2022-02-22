@@ -1,0 +1,42 @@
+body{
+    color:white;
+    background-color: #413f3b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 90%;
+    margin: 0px;
+    
+}
+
+.food{
+    position: relative;
+    left: 600px;
+}
+
+.cancel{
+    position: relative;
+    left: 800px;
+    bottom:22px;
+}
+
+input{
+    font-size: 120%;
+    color: #5a5854;
+    background-color: #f2f2f2;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    padding: 5px  5px 5px 30px;
+    background-repeat: no-repeat;
+    background-position: 8px 9px;
+    display: block;
+    margin-bottom: 10px;
+    position: relative;
+    
+}
+
+body{
+    background-image: url("cat.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
